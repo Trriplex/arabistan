@@ -7,8 +7,10 @@ body {
 	src: url("nastaliq.ttf");
 }
 h1 {
+	font-size: 50pt;
+}
+.nas {
 	font-family: "nas";
-	font-size: 70pt;
 }
 h2 {
 	font-family: "times new roman";
